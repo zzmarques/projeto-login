@@ -34,13 +34,21 @@
 
     }
     #login #img {
-        float: left;
+        float: right;
         width: 50%;
         height: 100%;
     }
 
     #login #formulario {
-        float: right;
+        float: left;
         width: 50%;
+    }
+
+    #formulario {
+        font-size: 1.6em;
+    }
+
+    #formulario p {
+        font-size: 0.8em;
     }
 }
